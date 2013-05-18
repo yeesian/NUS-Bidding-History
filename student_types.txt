@@ -1,0 +1,26 @@
+ARTS & SOCIAL SCIENCES New Students Bidding from Programme Account
+ARTS & SOCIAL SCIENCES Returning Students Bidding from Programme Account
+ARTS & SOCIAL SCIENCES null
+ENGINEERING New Students Bidding from Programme Account
+ENGINEERING Returning Students Bidding from Programme Account
+ENGINEERING null
+JOINT MULTI-DISCIPLINARY PROGRAMMES New Students Bidding from Programme Account
+JOINT MULTI-DISCIPLINARY PROGRAMMES Returning Students Bidding from Programme Account
+JOINT MULTI-DISCIPLINARY PROGRAMMES null
+NUS Students Paying from General Account
+NUS Students Paying from Programme and General Accounts
+SCHOOL OF BUSINESS New Students Bidding from Programme Account
+SCHOOL OF BUSINESS Returning Students Bidding from Programme Account
+SCHOOL OF BUSINESS null
+SCHOOL OF COMPUTING New Students Bidding from Programme Account
+SCHOOL OF COMPUTING Returning Students Bidding from Programme Account
+SCHOOL OF COMPUTING null
+SCHOOL OF DESIGN AND ENVIRONMENT New Students Bidding from Programme Account
+SCHOOL OF DESIGN AND ENVIRONMENT Returning Students Bidding from Programme Account
+SCHOOL OF DESIGN AND ENVIRONMENT null
+SCIENCE New Students Bidding from Programme Account
+SCIENCE Returning Students Bidding from Programme Account
+SCIENCE null
+YONG LOO LIN SCHOOL OF MEDICINE null
+YONG SIEW TOH CONSERVATORY OF MUSIC Returning Students Bidding from Programme Account
+YONG SIEW TOH CONSERVATORY OF MUSIC null
