@@ -1,3 +1,6 @@
+##This script helps to flatten all the other indivdual files. 
+##Must be placed in the same directory. 
+
 faculty_lookup = {
 			'SCHOOL OF BUSINESS': 1,
 			'ENGINEERING': 2,
@@ -47,14 +50,16 @@ for filename in filelist:
         if summary[0] == 'Module':
             continue
 
-        #Plug in some gaps due to lousy parsing
+        #Plug in some gaps due to merged rows
+        #Example - ACC1002X for Engine, for Science Quota
+        #Earlier Parse did not account for some missing values
         if summary [0] == '':
             summary[0] = last_module
             summary[1] = last_lecture
         last_module = summary[0]
         last_lecture = summary[1]
 
-        #Compress Faculty
+        #Compress Faculty to a number. See above for reference
         summary[7] = str(faculty_lookup[summary[7]])
 
         #Insert Bidround, then Semester, then Academic Year
