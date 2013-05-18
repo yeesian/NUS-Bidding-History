@@ -24,7 +24,7 @@ Already Did:
 
 Folder Structure: (High level plan to know where to put/get files)
 [Data] - To Contain all data
-	[Bid Timestamp] - Individual bid data with timestamps
-	[Bid Summary] - Summary after each bid round
+[Data/Bid Timestamp] - Individual bid data with timestamps
+[Data/Bid Summary] - Summary after each bid round
 [Code] - To contain all coding for app engine
 [Front End] - Yang Shun's playground.
