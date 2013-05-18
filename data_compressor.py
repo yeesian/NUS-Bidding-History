@@ -32,7 +32,7 @@ for line in modules_file:
 
 modules_file.close()
 
-data_file = open('data.csv')
+data_file = open('ay1213sem2_bidding_history.csv')
 
 # start writing to compressed data file
 

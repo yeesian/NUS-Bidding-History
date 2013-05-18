@@ -1,7 +1,7 @@
 # this file opens the raw data file, generates a table of module names and their id
 # and saves them in a another csv file
 
-f = open('data.csv')
+f = open('ay1213sem2_bidding_history.csv')
 i = 1
 
 f.readline()
