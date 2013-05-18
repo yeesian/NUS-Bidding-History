@@ -23,8 +23,8 @@ Already Did:
 - [YS] Scraped bid data with timestamp
 
 Folder Structure: (High level plan to know where to put/get files)
-[Data] - To Contain all data
-[Data/Bid Timestamp] - Individual bid data with timestamps
-[Data/Bid Summary] - Summary after each bid round
-[Code] - To contain all coding for app engine
-[Front End] - Yang Shun's playground.
+- [Data] - To Contain all data
+- [Data/Bid Timestamp] - Individual bid data with timestamps
+- [Data/Bid Summary] - Summary after each bid round
+- [Code] - To contain all coding for app engine
+- [Front End] - Yang Shun's playground.
