@@ -1,0 +1,1025 @@
+		  	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+		  	              <tbody>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_1A_20122013s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_1B_20122013s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_1C_20122013s1.html" target="_blank">Bidding Summary for Round 1C</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_2A_20122013s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_2B_20122013s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_3A_20122013s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201213_Sem1/successbid_3B_20122013s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td>&nbsp;</td>
+		  	                  <td><a target="_blank" href="./Archive/201213_Sem1/avgbidinfo__1915_20122013s1.html">Average Bid Points at Round 3B</a></td>
+		  	                </tr>
+		  	              </tbody>
+		  	            </table>
+		  				</td>
+		  			  </tr>
+		  			  <tr>
+					  <td>&nbsp;</td>
+					  <td align="right"><a href="#ArchiveTop"><br />
+						Back to Top</a></td>
+	                </tr>
+		  			</table>
+          	<br>
+		  
+		  
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  			  <tr>
+		  				<td colspan="2"><a name="1112" id="1112"></a><span class="whitepaneltitle">Bidding History for 2011/2012</span></td>
+		  			  </tr>
+		  			  <tr>
+		  				<td colspan="2">&nbsp;</td>
+		  			  </tr>
+		  			  <tr>
+					  <td height="140" valign="top">
+						<table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+						  <tbody>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%" class="whitepaneltitle">Semester 2</td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_1A_20112012s2.html" target="_blank">Bidding Summary for Round 1A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_1B_20112012s2.html" target="_blank">Bidding Summary for Round 1B</a></td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_2A_20112012s2.html" target="_blank">Bidding Summary for Round 2A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_2B_20112012s2.html" target="_blank">Bidding Summary for Round 2B</a></td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_3A_20112012s2.html" target="_blank">Bidding Summary for Round 3A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%"></td>
+							  <td width="95%"><a href="./Archive/201112_Sem2/successbid_3B_20112012s2.html" target="_blank">Bidding Summary for Round 3B</a></td>
+							</tr>
+							<tr>
+							  <td>&nbsp;</td>
+							  <td><a target="_blank" href="./Archive/201112_Sem2/avgbidinfo__1743_20112012s2.html">Average Bid Points at Round 3B</a></td>
+							  </tr>
+						  </tbody>
+						</table>
+						</td> 
+		  				<td valign="top">
+		  	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+		  	              <tbody>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_1A_20112012s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_1B_20112012s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_1C_20112012s1.html" target="_blank">Bidding Summary for Round 1C</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_2A_20112012s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_2B_20112012s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_3A_20112012s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%"></td>
+		  	                  <td width="95%"><a href="./Archive/201112_Sem1/successbid_3B_20112012s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td>&nbsp;</td>
+		  	                  <td><a target="_blank" href="./Archive/201112_Sem1/avgbidinfo__1800_20112012s1.html">Average Bid Points at Round 3B</a></td>
+		  	                </tr>
+		  	              </tbody>
+		  	            </table>
+		  				</td>
+		  			  </tr>
+		  			  <tr>
+					  <td>&nbsp;</td>
+					  <td align="right"><a href="#ArchiveTop"><br />
+						Back to Top</a></td>
+	                </tr>
+		  			</table>
+          	<br>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  			  <tr>
+		  				<td colspan="2"><a name="1011" id="1011"></a><span class="whitepaneltitle">Bidding History for 2010/2011</span></td>
+		  			  </tr>
+		  			  <tr>
+		  				<td colspan="2">&nbsp;</td>
+		  			  </tr>
+		  			  <tr>
+					  <td height="140" valign="top">
+						<table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+						  <tbody>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%" class="whitepaneltitle">Semester 2</td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_1A_20102011s2.html" target="_blank">Bidding Summary for Round 1A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_1B_20102011s2.html" target="_blank">Bidding Summary for Round 1B</a></td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_2A_20102011s2.html" target="_blank">Bidding Summary for Round 2A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_2B_20102011s2.html" target="_blank">Bidding Summary for Round 2B</a></td>
+							</tr>
+							 <tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_2C_20102011s2.html" target="_blank">Bidding Summary for Round 2C</a></td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_3A_20102011s2.html" target="_blank">Bidding Summary for Round 3A</a></td>
+							</tr>
+							<tr>
+							  <td width="5%">  </td>
+							  <td width="95%"><a href="./Archive/201011_Sem2/successbid_3B_20102011s2.html" target="_blank">Bidding Summary for Round 3B</a></td>
+							</tr>
+							<tr>
+							  <td>&nbsp;</td>
+							  <td><a target="_blank" href="./Archive/201011_Sem2/avgbidinfo__1804_20102011s2.html">Average Bid Points at Round 3B</a></td>
+							  </tr>
+						  </tbody>
+						</table>
+						</td>
+		  				<td valign="top">
+		  	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+		  	              <tbody>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_1A_20102011s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_1B_20102011s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_1C_20102011s1.html" target="_blank">Bidding Summary for Round 1C</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_2A_20102011s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_2B_20102011s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_3A_20102011s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td width="2%">  </td>
+		  	                  <td width="95%"><a href="./Archive/201011_Sem1/successbid_3B_20102011s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+		  	                </tr>
+		  	                <tr>
+		  	                  <td>&nbsp;</td>
+		  	                  <td><a target="_blank" href="./Archive/201011_Sem1/avgbidinfo__1742_20102011s1.html">Average Bid Points at Round 3B</a></td>
+		  	                </tr>
+		  	              </tbody>
+		  	            </table>
+		  				</td>
+		  			  </tr>
+		  			  <tr>
+					  <td>&nbsp;</td>
+					  <td align="right"><a href="#ArchiveTop"><br />
+						Back to Top</a></td>
+	                </tr>
+		  			</table>
+          	<br>
+          	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0910" id="0910"></a><span class="whitepaneltitle">Bidding History for 2009/2010</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td height="140" valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_1A_20092010s2.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_1B_20092010s2.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_2A_20092010s2.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_2B_20092010s2.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+                     <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_2C_20092010s2.html" target="_blank">Bidding Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_3A_20092010s2.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem2/successbid_3B_20092010s2.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td><a target="_blank" href="./Archive/200910_Sem2/avgbidinfo__1758_20092010s2.html">Average Bid Points at Round 3B</a></td>
+	                  </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_1A_20092010s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_1B_20092010s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_1C_20092010s1.html" target="_blank">Bidding Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_2A_20092010s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_2B_20092010s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_3A_20092010s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="2%">  </td>
+	                  <td width="95%"><a href="./Archive/200910_Sem1/successbid_3B_20092010s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td><a target="_blank" href="./Archive/200910_Sem1/avgbidinfo__1728_20092010s1.html">Average Bid Points at Round 3B</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+			  </tr>
+			  <tr>
+			  <td>&nbsp;</td>
+			  <td align="right"><a href="#ArchiveTop"><br />
+				Back to Top</a></td>
+			</tr>
+			</table>
+          	<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0809" id="0809"></a><span class="whitepaneltitle">Bidding History for 2008/2009</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td height="140" valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_1A_20082009s2.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_1B_20082009s2.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_2A_20082009s2.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_2B_20082009s2.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+                     <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_2C_20082009s2.html" target="_blank">Bidding Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_3A_20082009s2.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem2/successbid_3B_20082009s2.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td><a target="_blank" href="./Archive/200809_Sem2/avgbidinfo__1848_20082009s2.html">Average Bid Points at Round 3B</a></td>
+	                  </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_1A_20082009s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_1B_20082009s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_1C_20082009s1.html" target="_blank">Bidding Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_2A_20082009s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_2B_20082009s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_3A_20082009s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="./Archive/200809_Sem1/successbid_3B_20082009s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td><a target="_blank" href="./Archive/200809_Sem1/avgbidinfo__1745_20082009s1.html">Average Bid Points at Round 3B</a></td>
+	                </tr>
+	              </tbody>
+	              <tr>
+				  <td>&nbsp;</td>
+				  <td align="right"><a href="#ArchiveTop"><br />
+					Back to Top</a></td>
+	                </tr>
+	            </table>
+				</td>
+			  </tr>
+			</table>
+			<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0708" id="0708"></a><span class="whitepaneltitle">Bidding History for 2007/2008</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_1A_20072008s2.html" target="_blank">Bidding                           Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_1B_20072008s2.html" target="_blank">Bidding                           Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_2A_20072008s2.html" target="_blank">Bidding                           Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_2B_20072008s2.html" target="_blank">Bidding                           Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_2C_20072008s2.html" target="_blank">Bidding                           Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_3A_20072008s2.html" target="_blank">Bidding                           Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_3B_20072008s2.html" target="_blank">Bidding                           Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/successbid_3C_20072008s2.html" target="_blank">Bidding                           Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="linkwhite"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem2/avgbidinfo_3C_1803_20072008s2.html" target="_blank"> Average Bid Points at Round 3C</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_1A_20072008s1.html" target="_blank">Bidding                           Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_1B_20072008s1.html" target="_blank">Bidding                           Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_1C_20072008s1.html" target="_blank">Bidding                           Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_2A_20072008s1.html" target="_blank">Bidding                           Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_2B_20072008s1.html" target="_blank">Bidding                           Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_3A_20072008s1.html" target="_blank">Bidding                           Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_3B_20072008s1.html" target="_blank">Bidding                           Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/successbid_3C_20072008s1.html" target="_blank">Bidding                           Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200708_Sem1/avgbidinfo_3C_1740_20072008s1.html"> Average Bid Points at Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td align="right"><a href="#ArchiveTop"><br />
+	                    Back to Top</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+			  </tr>
+			</table>
+			<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0607" id="0607"></a><span class="whitepaneltitle">Bidding History for 2006/2007</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_1A_20062007s2.html" target="_blank">Bidding                           Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_1B_20062007s2.html" target="_blank">Bidding                           Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_2A_20062007s2.html" target="_blank">Bidding                           Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_2B_20062007s2.html" target="_blank">Bidding                           Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_2C_20062007s2.html" target="_blank">Bidding                           Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_3A_20062007s2.html" target="_blank">Bidding                           Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_3B_20062007s2.html" target="_blank">Bidding                           Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/successbid_3C_20062007s2.html" target="_blank">Bidding                           Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200607_Sem2/avgbidinfo_3C_20062007s2.html"> Average Bid Points at Round 3C</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_1A_20062007s1.html" target="_blank">Bidding                           Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_1B_20062007s1.html" target="_blank">Bidding                           Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_1C_20062007s1.html" target="_blank">Bidding                           Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_2A_20062007s1.html" target="_blank">Bidding                           Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_2B_20062007s1.html" target="_blank">Bidding                           Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_3A_20062007s1.html" target="_blank">Bidding                           Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_3B_20062007s1.html" target="_blank">Bidding                           Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/successbid_3C_20062007s1.html" target="_blank">Bidding                           Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200607_Sem1/avg_bid_point_info_3C.html"> Average Bid Points at Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td align="right"><a href="#ArchiveTop"><br />
+	                    Back to Top</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+			  </tr>
+			</table>
+			<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0506" id="0506"></a><span class="whitepaneltitle">Bidding History for 2005/2006</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_1A_0506s2.html">Bidding                           Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_1B_0506s2.html">Bidding                           Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_2A_0506s2.html">Bidding                           Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_2B_0506s2.html">Bidding                           Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_2C_0506s2.html">Bidding                           Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_3A_0506s2.html">Bidding                           Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_3B_0506s2.html">Bidding                           Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_3C_0506s2.html">Bidding                           Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_3D_0506s2.html">Bidding                           Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/successbid_3E_0506s2.html">Bidding                           Summary for Round 3E</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem2/averagepoints_20052006S2_3E.html">Average                           Bid Points at Round 3E</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_1A_0506s1.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_1B_0506s1.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_1C_0506s1.html" target="_blank">Bidding Summary for Round   	1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_2A_0506s1.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_2B_0506s1.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3A_0506s1.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3B_0506s1.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3C_0506s1.html" target="_blank">Bidding Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3D_0506s1.html" target="_blank">Bidding Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3E_0506s1.html" target="_blank">Bidding Summary for Round 3E</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%"> </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/successbid_3F_0506s1.html" target="_blank">Bidding Summary for Round 3F</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a target="_blank" href="http://www.cors.nus.edu.sg/Archive/200506_Sem1/avg_bid_pts_info_20052006S1_3F.html"> Average Bid Points at Round 3F</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td align="right"><a href="#ArchiveTop"><br />
+	                    Back to Top</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+			  </tr>
+			</table>
+			<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0405" id="0405"></a><span class="whitepaneltitle">Bidding History for 2004/2005</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_1A_0405s2.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_1B_0405s2.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_2A_0405s2.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_2B_0405s2.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_2C_0405s2.html" target="_blank">Bidding Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3A_0405s2.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3B_0405s2.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3C_0405s2.html" target="_blank">Bidding Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3D_0405s2.html" target="_blank">Bidding Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3E_0405s2.html" target="_blank">Bidding Summary for Round 3E</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem2/successbid_3F_0405s2.html" target="_blank">Bidding Summary for Round 3F</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid1A.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid1B.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid1C.html" target="_blank">Bidding Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid2A.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid2B.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3A.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3B.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3C.html" target="_blank">Bidding Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3D.html" target="_blank">Bidding Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3E.html" target="_blank">Bidding Summary for Round 3E</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200405_Sem1/bid3F.html" target="_blank">Bidding Summary for Round 3F</a></td>
+	                </tr>
+	                <tr>
+	                  <td>&nbsp;</td>
+	                  <td align="right"><a href="#ArchiveTop"><br />
+	                    Back to Top</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+			  </tr>
+			</table>
+			<br>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+				<td colspan="2"><a name="0304" id="0304"></a><span class="whitepaneltitle">Bidding History for 2003/2004</span></td>
+			  </tr>
+			  <tr>
+				<td colspan="2">&nbsp;</td>
+			  </tr>
+			  <tr>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 2</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid1A.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid1B.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid2A.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid2B.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid2C.html" target="_blank">Bidding Summary for Round 2C</a> </td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid3A.html" target="_blank">Bidding Summary for Round 3A</a> </td>
+	                </tr>
+	                <tr>
+	                  <td height="16" width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid3B.html" target="_blank">Bidding Summary for Round 3B</a> </td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid3C.html" target="_blank">Bidding Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid3D.html" target="_blank">Bidding Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem2/bid3E.html" target="_blank">Bidding Summary for Round 3E</a></td>
+	                </tr>
+	              </tbody>
+	            </table>
+				</td>
+				<td valign="top">
+	            <table id="table3" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              <tbody>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%" class="whitepaneltitle">Semester 1</td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid1A.html" target="_blank">Bidding Summary for Round 1A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid1B.html" target="_blank">Bidding Summary for Round 1B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid1C.html" target="_blank">Bidding Summary for Round 1C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid2A.html" target="_blank">Bidding Summary for Round 2A</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid2B.html" target="_blank">Bidding Summary for Round 2B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid2C.html" target="_blank">Bidding Summary for Round 2C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid3A.html" target="_blank">Bidding Summary for Round 3A</a></td>
+	                </tr>
+	                <tr>
+	                  <td height="15" width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid3B.html" target="_blank">Bidding Summary for Round 3B</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid3C.html" target="_blank">Bidding Summary for Round 3C</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid3D.html" target="_blank">Bidding Summary for Round 3D</a></td>
+	                </tr>
+	                <tr>
+	                  <td width="5%">  </td>
+	                  <td width="95%"><a href="http://www.cors.nus.edu.sg/Archive/200304_Sem1/bid3E.html" target="_blank">Bidding Summary for Round 3E</a></td>
