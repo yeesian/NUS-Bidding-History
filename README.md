@@ -1,30 +1,40 @@
 NUS-Bidding-History
 ===================
 
-A place to host the data scraped from NUS CORS Archive
+A place to scrape and host the data scraped from NUS CORS Archive
 
-Final Aim: Fully Automated Website
+*Data Format*
+- NUS Bidding Activity (12 columns, 77944 entries/rows)
+  - Bid_status:
+    'S' for 'Successful'
+    'U' for 'Unsuccessful'
+  - Student_Type
+    'R' for 'Returning' (Years 2 to 4)
+    'N' for 'New' (Year 1)
+    'NA' for not applicable/available
+  - Account
+    'G' for 'General'
+    'P' for 'Programme'
+    'NA' for not applicable/available
+- NUS Bidding Summary (12 columns, 175383 entries/rows)
 
-Current Milestone: Site up and running by first bidding period
 
-Current Members: 
-Weiqing
-Rishabh
-Yang Shun
-Yee Sian
-
-To Do:
-- [WQ] Learn more about Google App Engine and Databases
-- [WQ] 
-
-
-Already Did:
-- [WQ] Scraped old archive data
-- [YS] Scraped bid data with timestamp
-
-Folder Structure: (High level plan to know where to put/get files)
-- [Data] - To Contain all data
-- [Data/Bid Timestamp] - Individual bid data with timestamps
-- [Data/Bid Summary] - Summary after each bid round
-- [Code] - To contain all coding for app engine
-- [Front End] - Yang Shun's playground.
+*Folder Structure:*
++ Bidding_Activity [hidden]
+| + html files containing the bidding activities for each module
+| + original/unprocessed bidding_activity.csv
++ Bidding_Summary [hidden]
+| + html files containing the bidding summaries for each semester
+| + original/unprocessed bidding_summary.csv
++ links
+| + archive_links.txt # links to the bidding summaries
+| + bidding_links.txt # links to the bidding activities
++ scripts
+| + for pulling the list of links from CORS
+| + for scraping the data from the html files
++ tutorials
+| + for storing the ipython notebooks and code
++ instructions (current file)
++ log (from wget, when fetching the html files)
++ nus_bidding_activity.csv
++ nus_bidding_summary.csv

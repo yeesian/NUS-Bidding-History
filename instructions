@@ -36,6 +36,7 @@ $ rm Bidding_Summary/archive_links.txt
 $ python scripts/scrape_bids_from_html.py > bidding_activity.csv
 $ python scripts/scrape_summary_from_html.py > bidding_summary.csv
 
-7) Fill in missing information
-$ sed -i 's/Returning Students\ and\ /Returning Students\ and\ New\ Students\ [P]/g' bidding_summary.csv
-$ 
+7) And now, we work with pandas (in ipython) *code available in /tutorials
+see the following tutorials for details:
+- http://nbviewer.ipython.org/5611329
+- http://nbviewer.ipython.org/5611582
