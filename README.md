@@ -54,7 +54,8 @@ $ rm Bidding_Summary/archive_links.txt
 ```
 
 6) Parse the html
-```$ python scripts/scrape_bids_from_html.py > bidding_activity.csv
+```
+$ python scripts/scrape_bids_from_html.py > bidding_activity.csv
 $ python scripts/scrape_summary_from_html.py > bidding_summary.csv
 ```
 
