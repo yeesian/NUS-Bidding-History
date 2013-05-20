@@ -66,7 +66,7 @@ see the following tutorials for details:
   - for scraping the data from the html files
 * tutorials
   - for storing the ipython notebooks and code
-* instructions (current file)
 * log (from wget, when fetching the html files)
 * nus_bidding_activity.csv
 * nus_bidding_summary.csv
+* README.md (current file)
