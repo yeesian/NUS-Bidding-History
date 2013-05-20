@@ -3,7 +3,7 @@ NUS-Bidding-History
 A place to scrape and host the data scraped from NUS CORS Archive
 
 ##Data Format##
-- NUS Bidding Activity (12 columns, 77944 entries/rows)
+* NUS Bidding Activity (12 columns, 77944 entries/rows)
   - Bid_status:
     - 'S' for 'Successful'
     - 'U' for 'Unsuccessful'
@@ -15,7 +15,7 @@ A place to scrape and host the data scraped from NUS CORS Archive
     - 'G' for 'General'
     - 'P' for 'Programme'
     - 'NA' for not applicable/available
-- NUS Bidding Summary (12 columns, 175383 entries/rows)
+* NUS Bidding Summary (12 columns, 175383 entries/rows)
 
 
 ##Folder Structure:##
