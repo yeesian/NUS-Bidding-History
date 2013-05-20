@@ -11,7 +11,8 @@ A place to scrape and host the data scraped from NUS CORS Archive
 * NUS Bidding Summary (12 columns, 175383 entries/rows)
 
 
-##Instructions## (for UNIX users):
+##Instructions##
+(for UNIX users)
 
 0) Create the following directories:
 ```
