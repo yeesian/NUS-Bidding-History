@@ -11,3 +11,9 @@ for link in iterlinks(r.data):
       print('http://www.cors.nus.edu.sg/'+link[2][2:])
     else:
       print(link[2])
+
+url2 = 'http://www.nus.edu.sg/cors/useful-info.html'
+r = http.request('GET', url2)
+for link in iterlinks(r.data):
+  if link[2][2:9] == 'Reports':
+    print('http://www.nus.edu.sg/cors/Reports/'+link[2][10:])
